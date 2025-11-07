@@ -10,6 +10,8 @@ Requires-Dist: scikit-learn
 Requires-Dist: pymongo
 Requires-Dist: certifi
 Requires-Dist: pymongo[srv]==3.11
+Requires-Dist: dill
+Requires-Dist: pyaml
 Requires-Dist: Flask
 Dynamic: author
 Dynamic: author-email
