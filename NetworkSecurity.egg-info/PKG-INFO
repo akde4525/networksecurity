@@ -13,6 +13,10 @@ Requires-Dist: pymongo[srv]==3.11
 Requires-Dist: dill
 Requires-Dist: pyaml
 Requires-Dist: mlflow
+Requires-Dist: dagshub
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-multipart
 Requires-Dist: Flask
 Dynamic: author
 Dynamic: author-email

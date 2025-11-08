@@ -27,6 +27,11 @@ from sklearn.ensemble import (
 import mlflow
 from urllib.parse import urlparse
 
+import dagshub
+
+# ✅ Corrected endpoint
+dagshub.init(repo_owner='akde4525', repo_name='networksecurity', mlflow=True)
+# mlflow.set_tracking_uri("https://dagshub.com/akde4525/networksecurity/mlflow")
 
 
 
