@@ -12,6 +12,7 @@ Requires-Dist: certifi
 Requires-Dist: pymongo[srv]==3.11
 Requires-Dist: dill
 Requires-Dist: pyaml
+Requires-Dist: mlflow
 Requires-Dist: Flask
 Dynamic: author
 Dynamic: author-email
